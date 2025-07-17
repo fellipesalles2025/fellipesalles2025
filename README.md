@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">- 🖥️ Técnico em informática pela FIEB <br>-  🎓 Cursando o 5º semestre de ADS na FATEC<br>- 📖 Atualmente estudando **desenvolvimento web** e **Java**<br>- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software<br>- 🌐 Meus projetos disponíveis em: [fellipesalles2025](https://github.com/fellipesalles2025?tab=repositories)</p>
+- 🖥️ Técnico em informática pela FIEB 
+- 🎓 Cursando o 5º semestre de ADS na FATEC
+- 📖 Atualmente estudando **desenvolvimento web** e **Java**
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
+- 🌐 Meus projetos disponíveis em: [fellipesalles2025](https://github.com/fellipesalles2025?tab=repositories)
 
 ###
 
