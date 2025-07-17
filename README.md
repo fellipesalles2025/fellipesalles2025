@@ -54,9 +54,9 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipesalles2025&show_icons=true&theme=gotham&locale=pt-br&hide_title=false&hide_rank=false&hide_border=false)
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipesalles2025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+<a href="https://github.com/fellipesalles2025">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipesalles2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipesalles2025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 ###
