@@ -1,22 +1,66 @@
-<h1 align="center">Olá 👋, eu sou o Fellipe</h1>
-<h3 align="center">Um estudante de ADS apaixonado pela programação.</h3>
+<h1 align="center">Olá 👋, me chamo Fellipe</h1>
 
-- 🌱 Atualmente estou aprendendo **Java** e aprofundando meus conhecimentos em programação web
+###
 
-- 👨‍💻 Todos os meus projetos estão disponiveis em [fellipesalles2025](https://github.com/fellipesalles2025?tab=repositories)
+<p align="left">Sou um estudante de Análise e Desenvolvimento de Sistemas em busca de aprender novas tecnologias e aplicá-las em projetos reais ao longo da minha carreira como desenvolvedor de software</p>
 
-- 📫 Você pode me encontrar em **fellipefernandezsalles@outlook.com**
+###
 
-<h3 align="left">Redes Sociais: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fellipe-salles/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a><hr>
+<h2 align="left">Sobre mim</h2>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
+###
 
-<hr>
+<p align="left">- 🖥️ Técnico em informática pela FIEB <br>-  🎓 Cursando o 5º semestre de ADS na FATEC<br>- 📖 Atualmente estudando **desenvolvimento web** e **Java**<br>- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software<br>- 🌐 Meus projetos disponíveis em: [fellipesalles2025](https://github.com/fellipesalles2025?tab=repositories)</p>
+
+###
+
+<h2 align="left">Linguagens e Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Redes Sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fellipe-salles/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Github Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fellipesalles2025&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipesalles2025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fellipesalles2025/fellipesalles2025/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fellipesalles2025/fellipesalles2025/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fellipesalles2025/fellipesalles2025/output/pacman-contribution-graph.svg">
+</picture>
+
+###
