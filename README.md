@@ -56,7 +56,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipesalles2025&show_icons=true&theme=gotham&locale=pt-br&hide_title=false&hide_rank=false&hide_border=false)
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fellipesalles2025&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipesalles2025&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 ###
