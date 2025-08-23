@@ -14,7 +14,7 @@
 - 🎓 Cursando o 5º semestre de ADS na FATEC
 - 📖 Atualmente estudando **desenvolvimento web** e **Java**
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
-- 🌐 Meus projetos disponíveis em: [fellipesalles2025](https://github.com/fellipesalles2025?tab=repositories)
+- 🌐 Meus projetos disponíveis em: [fellipesalles2025](https://portif-lio-seven-beta.vercel.app/)
 
 ###
 
