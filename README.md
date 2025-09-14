@@ -10,9 +10,9 @@
 
 ###
 
-- 🖥️ Técnico em informática pela FIEB 
+- 🖥️ Formado como Técnico em Tecnologia da Iformação pelo Instituto Técnico de Barueri 
 - 🎓 Cursando o 5º semestre de ADS na FATEC
-- 📖 Atualmente estudando **desenvolvimento web** e **Java**
+- 📖 Atualmente estudando **React** e **Spring boot**
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
 - 🌐 Meus projetos disponíveis em: [fellipesalles2025](https://portif-lio-seven-beta.vercel.app/)
 
